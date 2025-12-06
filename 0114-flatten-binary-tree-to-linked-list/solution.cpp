@@ -19,7 +19,7 @@ public:
         TreeNode* r=root->right;
 
         root->left=NULL;
-        root->left=NULL;
+      
 
         flatten(l);
         flatten(r);
