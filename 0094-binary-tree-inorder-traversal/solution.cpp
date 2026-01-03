@@ -13,7 +13,6 @@ class Solution {
 public:
 
     void inorder(TreeNode* root,vector<int> &arr){
-
         if(!root) return;
 
         inorder(root->left,arr);
@@ -24,15 +23,13 @@ public:
 
     }
 
-
     vector<int> inorderTraversal(TreeNode* root) {
 
-     vector<int> arr;
+        vector<int> arr;
 
-    inorder(root,arr);
+        inorder(root,arr);
 
-
-    return arr;
-
+        return arr;
+        
     }
 };
