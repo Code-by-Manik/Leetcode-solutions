@@ -13,7 +13,6 @@ class Solution {
 public:
 
     void inorder(TreeNode* root,vector<int> &arr){
-
         if(!root) return;
 
         inorder(root->left,arr);
@@ -21,27 +20,24 @@ public:
         arr.push_back(root->val);
 
         inorder(root->right,arr);
-
-
     }
 
     bool isValidBST(TreeNode* root) {
 
-        vector<int> arr;
+        vector<int>arr;
 
         inorder(root,arr);
 
-        int size=arr.size();
-
         int i=0;
-        int j=i+1;
+        int j=1;
 
-        while(j<size){
+        while(j<arr.size()){
             if(arr[i]>=arr[j]) return false;
+
             i++;
             j++;
         }
-        
+
         return true;
     }
 };
