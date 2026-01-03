@@ -12,51 +12,52 @@
 class Solution {
 public:
 
-int levels(TreeNode* root){
-    if(!root) return 0;
+    int levels(TreeNode* root){
+        if(!root) return 0;
 
-    int lmax=levels(root->left);
-   int  rmax=levels(root->right);
+        int lmax=levels(root->left);
+        int rmax=levels(root->right);
 
-    return 1+max(lmax,rmax);
+        return 1+max(lmax,rmax);
+    }
 
-}
 
-    void printN(vector<int> &arr,TreeNode* root,int level,int curr=1){
+    void Lpreorder(TreeNode* root,vector<int> &arr,int levels,int curr=1){
 
-      
         if(!root) return;
 
-        if(curr==level){
+        if(curr==levels){
             arr.push_back(root->val);
             return;
         }
 
-        printN(arr,root->left,level,curr+1);
-        printN(arr,root->right,level,curr+1);
+        Lpreorder(root->left,arr,levels,curr+1);
+        Lpreorder(root->right,arr,levels,curr+1);
 
 
     }
 
-    void lorder(TreeNode* root,  vector<vector<int>> &ans){
-       
+    void lorder(TreeNode* root,vector<vector<int>> &ans){
+
          int n=levels(root);
+        
 
-
-         for(int i=1;i<=n;i++){
+        for(int i=1;i<=n;i++){
             vector<int> arr;
 
-            printN(arr,root,i,1);
+            Lpreorder(root,arr,i,1);
 
             ans.push_back(arr);
 
-        
 
-         }
 
+
+
+        }
+
+      
 
     }
-
 
 
     vector<vector<int>> levelOrder(TreeNode* root) {
@@ -65,8 +66,50 @@ int levels(TreeNode* root){
 
         lorder(root,ans);
 
-        return ans;
-
+       return ans;
         
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 };
