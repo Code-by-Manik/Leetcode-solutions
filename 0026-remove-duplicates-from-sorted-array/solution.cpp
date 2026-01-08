@@ -1,24 +1,27 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
+        stack<int> st;
+        st.push(nums[0]);
+        vector<int>ans;
 
-        map<int,int> mp;
-        vector<int> ans;
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]!=st.top()){
+                st.push(nums[i]);
+            }  
+        }
+        int k=st.size();
 
-        for(int i:nums){
-            mp[i]++;
+        while(!st.empty()){
+            ans.push_back(st.top());
+            st.pop();
+        }
+        reverse(ans.begin(),ans.end());
+
+        for(int i=0;i<k;i++){
+            nums[i]=ans[i];
         }
 
-
-        for(auto i:mp){
-            ans.push_back(i.first);
-        }
-
-    nums=ans;
-
-    return nums.size();
-        
-
-        
+        return k;
     }
 };
