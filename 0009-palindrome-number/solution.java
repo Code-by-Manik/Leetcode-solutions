@@ -1,18 +1,16 @@
 class Solution {
+    static int rev(int n,int rev){
+        if(n<1) return rev;
+       return rev(n/10,(rev)*10 + n%10);
+    }
     public boolean isPalindrome(int x) {
+        if(x<0) return false;
+
         int org = x;
+        int r = rev(x,0);
 
-        int res=0;
+        return org == r;
 
-        while(x>0){
-            int digit=x%10;
-            res=res*10+digit;
-            x/=10;
-        }
-
-        if(res==org) return true;
-
-        return false;
         
     }
 }
