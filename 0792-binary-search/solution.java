@@ -1,24 +1,21 @@
 class Solution {
-    public int search(int[] nums, int target) {
 
-        int s=0;
-        int e=nums.length-1;
+    static int helper(int arr[],int s,int e,int target,int ans){
+        if(s>e) return ans;
 
-        while(s<=e){
-            int mid=s+(e-s)/2;
+        int mid = s + (e-s)/2;
 
-            if(nums[mid]==target){
-                return mid;
-            }
-
-            else if(nums[mid]<target){
-                s=mid+1;
-            }
-
-            else{
-                e=mid-1;
-            }
+        if(arr[mid] == target){
+            ans = mid;
+            return ans;
         }
-        return -1;
+
+        else if(arr[mid] < target) return helper(arr,mid+1,e,target,ans);
+        else return helper(arr,s,mid-1,target,ans);
+        
+    }
+
+    public int search(int[] nums, int target) {
+        return helper(nums,0,nums.length-1,target,-1);
     }
 }
