@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
