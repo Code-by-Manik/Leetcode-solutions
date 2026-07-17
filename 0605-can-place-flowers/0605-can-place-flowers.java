@@ -35,9 +35,7 @@ class Solution {
                 continue;
             }
 
-            else if(arr[i]==0 && i==arr.length-1 && i-1 > 0 && arr[i-1] == 1){
-                continue;
-            }
+
 
 
 
