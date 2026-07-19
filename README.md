@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0041-first-missing-positive](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
