@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,12 +108,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
 <!---LeetCode Topics End-->
