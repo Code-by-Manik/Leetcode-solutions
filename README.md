@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Greedy
