@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
