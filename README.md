@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
