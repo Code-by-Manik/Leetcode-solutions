@@ -1,4 +1,12 @@
 class Solution {
+
+    // takes three pointers
+
+// if -> arr[mid] == 0 swap -> both pointers arr[mid] ans arr[low] mid++;low++;
+// if -> arr[mid] == 1 -> mid++;
+// if -> arr[mid] == 2 -> swap->arr[low]and arr[high];
+
+
     static void swap(int arr[],int a,int b){
         int temp = arr[a];
         arr[a] = arr[b];
