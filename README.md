@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
