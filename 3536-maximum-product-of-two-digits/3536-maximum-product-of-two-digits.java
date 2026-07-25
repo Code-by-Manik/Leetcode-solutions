@@ -22,7 +22,7 @@ class Solution {
             max = i;
             
         }
-     else if(i<=max && i>=smax){
+     else if(i<=max && i>smax){
             smax = i;
         }
     }
