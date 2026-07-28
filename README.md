@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,9 +196,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
