@@ -3,27 +3,29 @@ class Solution {
         
         // Map<Integer,Character> map = new HashMap<>();
 
-        int arr[] = new int[8];
+        // int arr[] = new int[8];
 
         int push=1;
         int idx=0;
+        int sum=0;
 
         for(char i:word.toCharArray()){
 
-            arr[idx++]+=push;
-            if(idx==arr.length){
+            sum+=push;
+            idx++;
+            if(idx==8){
                 push++;
                 idx=idx%8;
             }
 
         }
 
-        int total=0;
-        for(int i:arr){
-            total+=i;
-        }
+        // int total=0;
+        // for(int i:arr){
+        //     total+=i;
+        // }
 
-        return total;
+        return sum;
 
 
         
