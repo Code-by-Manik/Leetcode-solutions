@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0848-shifting-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Bit Manipulation
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
