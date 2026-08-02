@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0848-shifting-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
