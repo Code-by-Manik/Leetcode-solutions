@@ -6,12 +6,7 @@ class Solution {
         for(char i:word.toCharArray()){
             freq[i-'a']++;
         }
-        Map<Integer,Integer> map = new HashMap<>();
 
-        for(int i=0;i<freq.length;i++){
-            if(freq[i]>0)
-            map.put(freq[i],i);
-        }
 
         Arrays.sort(freq);
         int idx=0;
