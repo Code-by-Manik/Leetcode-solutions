@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Heap (Priority Queue)
