@@ -14,14 +14,14 @@ class Solution {
 
             else if(arr[mid]>arr[mid+1]){
                 j=mid;
-                ans = mid;
+                // ans = mid;
             }
 
 
 
        }
 
-       return ans;
+       return i;
         
         
     }
