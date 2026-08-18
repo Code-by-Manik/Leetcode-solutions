@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
