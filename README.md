@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
