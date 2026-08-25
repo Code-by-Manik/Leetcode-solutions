@@ -57,7 +57,6 @@ class Solution {
             
         }
 
-        // if(!exist) return head;
 
         if(!foundS) return hl;
         if(!foundL) return hs;
