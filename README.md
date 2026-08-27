@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
