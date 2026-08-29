@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Monotonic Stack
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
