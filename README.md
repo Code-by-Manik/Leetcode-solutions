@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -334,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
