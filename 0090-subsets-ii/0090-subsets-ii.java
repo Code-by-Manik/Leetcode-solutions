@@ -1,17 +1,19 @@
 class Solution {
-    static void helper(int nums[],int idx,List<Integer> list,Set<List<Integer>> seen){
+    static void helper(int nums[],int idx,List<Integer> list,List<List<Integer>> ans){
 
-        if(idx == nums.length){
-            List<Integer> arr = new ArrayList<>(list);
-            seen.add(arr);
-            return;
-        }
+        
+            ans.add(new ArrayList<>(list));
+        
+        for(int i=idx;i<nums.length;i++){
+            if(i > idx && nums[i] == nums[i-1]) continue;
 
-        list.add(nums[idx]);
-        helper(nums,idx+1,list,seen);
+        list.add(nums[i]);
+        helper(nums,i+1,list,ans);
         list.remove(list.size()-1);
+        }
+        // helper(nums,idx+1,list,ans);
+        
 
-        helper(nums,idx+1,list,seen);
 
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
@@ -20,16 +22,11 @@ class Solution {
 
         List<Integer> list = new ArrayList<>();
 
-        Set<List<Integer>> seen = new HashSet<>();
+        // Set<List<Integer>> seen = new HashSet<>();
 
-        helper(nums,0,list,seen);
+        helper(nums,0,list,ans);
 
-        for(List<Integer> i: seen){
-            ans.add(i);
-        }
+    return ans;
 
-        // Collections.sort(ans);
-
-        return ans;
     }
 }
