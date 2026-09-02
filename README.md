@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0216-combination-sum-iii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -348,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
