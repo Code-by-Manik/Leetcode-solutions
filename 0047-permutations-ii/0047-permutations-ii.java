@@ -13,7 +13,7 @@ class Solution {
             for(int i: nums){
                 list.add(i);
             }
-            if(!ans.contains(list))
+          
             ans.add(list);
             return;
         }
