@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -358,10 +361,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
