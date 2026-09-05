@@ -1,43 +1,30 @@
 class Solution {
-
     static boolean check(String a,String b){
-        // char aa[] = a.toCharArray();
-        // char bb[] = b.toCharArray();
+        char freq[] = new char[26];
 
-        // Arrays.sort(aa);
-        // Arrays.sort(bb);
-
-        // String A = new String(aa);
-        // String B = new String(bb);
-
-        // return A.equals(B);
-
-        int arr[] = new int[26];
-
-        for(char i : a.toCharArray()){
-            arr[i-'a']++;
+        for(char i:a.toCharArray()){
+            freq[i - 'a']++;
         }
-        for(char i : b.toCharArray()){
-            arr[i-'a']--;
+        for(char i:b.toCharArray()){
+            freq[i - 'a']--;
         }
 
-        for(int i:arr){
+        for(int i:freq){
             if(i!=0) return false;
         }
-
         return true;
 
     }
-
     public List<Integer> findAnagrams(String s, String p) {
 
-        int len = p.length();
-        List<Integer> list = new ArrayList<>();
-        for(int i=0;i<=s.length()-len;i++){
-            if(check(s.substring(i,i+len),p)){
-                list.add(i);
+        List<Integer> ans = new ArrayList<>();
+
+        for(int i=0;i<=s.length() - p.length();i++){
+            if(check(s.substring(i,i + p.length()),p)){
+                ans.add(i);
             }
         }
-        return list;
+        return ans;
+        
     }
 }
