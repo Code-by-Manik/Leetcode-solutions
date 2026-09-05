@@ -15,12 +15,13 @@ class Solution {
                 i++;
             }
             set.add(str[j]);
-            j++;
-
             int len = j-i+1;
             if(len > max) max = len;
+            j++;
+
+
         }
-        return max-1;
+        return max;
          
     }
 }
