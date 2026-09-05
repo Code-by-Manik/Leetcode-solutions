@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
