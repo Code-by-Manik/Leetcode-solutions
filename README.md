@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0283-move-zeroes](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
