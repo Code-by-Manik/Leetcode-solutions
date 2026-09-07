@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
