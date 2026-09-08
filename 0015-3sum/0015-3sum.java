@@ -26,7 +26,6 @@ class Solution {
                     arr.add(nums[i]);
                     arr.add(nums[j]);
                     arr.add(nums[k]);
-                    // if(!ans.contains(arr))
                     ans.add(arr);
                     j++;
                     k--;
