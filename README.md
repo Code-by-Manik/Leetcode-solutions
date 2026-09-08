@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0525-contiguous-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
