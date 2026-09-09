@@ -1,33 +1,28 @@
 class Solution {
 
-    static void helper(int size,int open,int close,String str,List<String> ans){
-        if(str.length() == size*2){
-            ans.add(str);
+    static void helper(int size,String s,int open,int close,List<String> ans){
+        if(s.length() == 2*size){
+            ans.add(s);
+            return;
         }
 
-        if(open < size){
-            str+='(';
-            helper(size,open+1,close,str,ans);
-        str = str.substring(0,str.length()-1);
+        if(open<size){
+            helper(size,s+'(',open+1,close,ans);
 
         }
-        if(close < open){
-            str+=')';
-            helper(size,open,close+1,str,ans);
-        str = str.substring(0,str.length()-1);
-
-
+        if(close<open){
+            helper(size,s+')',open,close+1,ans);
         }
+
     }
 
     public List<String> generateParenthesis(int n) {
         
-
         List<String> ans = new ArrayList<>();
-        String str = "";
 
-        helper(n,0,0,str,ans);
+        helper(n,"",0,0,ans);
+
         return ans;
-        
+
     }
 }
