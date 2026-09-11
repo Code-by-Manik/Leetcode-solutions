@@ -8,7 +8,7 @@ class Solution {
         int j =0;
         int max = 0;
         while(j<s.length()){
-            while(set.contains(str[j]) && i<j){
+            while(set.contains(str[j])){
                 set.remove(str[i]);
                 i++;
             }
