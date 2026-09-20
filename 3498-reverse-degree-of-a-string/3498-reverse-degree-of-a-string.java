@@ -1,6 +1,6 @@
 class Solution {
     public int reverseDegree(String s) {
-        int freq[] = new int[26];
+
 
         int count=0;
 
