@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0402-remove-k-digits](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0605-can-place-flowers](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Trie
