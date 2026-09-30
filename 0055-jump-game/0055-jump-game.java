@@ -1,5 +1,8 @@
 class Solution {
     public boolean canJump(int[] nums) {
+
+        // Greedy solution!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+
         if(nums.length==1) return true;
         if(nums[0] == 0) return false;
         if(nums.length==2 && nums[0]!=0) return true;
@@ -15,7 +18,7 @@ class Solution {
 
             if(nums[i] > val){
                 val = nums[i];
-                
+                // idx = i;
             }
 
             
