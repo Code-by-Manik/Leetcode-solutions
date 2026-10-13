@@ -452,8 +452,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
