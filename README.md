@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
