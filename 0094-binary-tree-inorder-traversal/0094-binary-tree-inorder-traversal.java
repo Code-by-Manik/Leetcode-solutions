@@ -31,7 +31,7 @@ class Solution {
                 curr = curr.left;
             }
 
-            if(pred.right == curr){
+            else{
                 pred.right=null;
                 ans.add(curr.val);
                 curr = curr.right;
