@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
