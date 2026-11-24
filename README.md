@@ -487,12 +487,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -580,5 +583,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
