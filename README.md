@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Coloring
@@ -602,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/Code-by-Manik/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
